@@ -1,5 +1,5 @@
 ## 是什么
-从0到1，本地运行gpt2模型的项目。
+从0到1，本地运行、调试gpt2模型的项目。
 使用 python + Transformers + pytorch 实现
 
 ## 怎么使用
